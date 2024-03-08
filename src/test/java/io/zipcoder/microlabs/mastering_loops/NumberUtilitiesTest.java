@@ -177,6 +177,8 @@ public class NumberUtilitiesTest {
     @Test
     public void testGetExponentiationNumbers() {
         // : Given
+
+
         String expected = "25100225";
         int start = 5;
         int stop = 20;
